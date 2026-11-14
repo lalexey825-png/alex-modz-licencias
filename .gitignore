@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+alex_admin.py
+copias/
+licencias.db
+*.db
+*.sqlite
+*.sqlite3
