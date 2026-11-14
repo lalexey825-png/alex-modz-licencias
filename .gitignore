@@ -6,3 +6,7 @@ licencias.db
 *.db
 *.sqlite
 *.sqlite3
+alex_admin_ANTES_SYNC.py
+firma_privada.pem
+firma_publica.pem
+*.pem
