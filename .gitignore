@@ -11,3 +11,4 @@ firma_privada.pem
 firma_publica.pem
 *.pem
 alex_admin_ANTES_*.py
+exportar_licencias.py
